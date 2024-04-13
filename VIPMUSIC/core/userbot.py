@@ -56,7 +56,7 @@ class Userbot(Client):
         )
 
     async def start(self):
-        LOGGER(__name__).info(f"Starting Assistants...")
+        LOGGER(__name__).info(f"𝐍𝐚𝐧 𝐕𝐚𝐧𝐭𝐡𝐮𝐭𝐚𝐧 𝐝𝐚 𝐞𝐧𝐠𝐚.....✨😒")
         
 
         if config.STRING1:
