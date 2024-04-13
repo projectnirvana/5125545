@@ -556,7 +556,7 @@ class Call(PyTgCalls):
         return str(round(sum(pings) / len(pings), 3))
 
     async def start(self):
-        LOGGER(__name__).info("😋sᴛᴀʀᴛɪɴɢ ᴘʏᴛɢᴄᴀʟʟs ᴄʟɪᴇɴᴛ...\n")
+        LOGGER(__name__).info("𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠 𝐧𝐢𝐫𝐯𝐚𝐧𝐚 𝐜𝐥𝐢𝐞𝐧𝐭......✨👽\n")
         if config.STRING1:
             await self.one.start()
         if config.STRING2:
