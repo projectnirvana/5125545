@@ -67,18 +67,18 @@ async def ping_com(client, message: Message, _):
         user_last_message_time[user_id] = current_time
 
     PING_IMG_URL = "https://telegra.ph/file/37b57c6aaaa793bba055a.jpg"
-    captionss = "**🥀ᴘɪɴɢɪɴɢ ᴏᴜʀ sᴇʀᴠᴇʀ ᴡᴀɪᴛ.**"
+    captionss = "**🥀ᴘɪɴɢɪɴɢ ᴏᴜʀ 𝐊ᴀʀᴍᴀ sᴇʀᴠᴇʀ ᴡᴀɪᴛ.**"
     response = await message.reply_photo(PING_IMG_URL, caption=(captionss))
     await asyncio.sleep(1)
-    await response.edit_caption("**🥀ᴘɪɴɢɪɴɢ ᴏᴜʀ sᴇʀᴠᴇʀ ᴡᴀɪᴛ...**")
+    await response.edit_caption("**🥀ᴘɪɴɢɪɴɢ ᴏᴜʀ 𝐊ᴀʀᴍᴀ sᴇʀᴠᴇʀ ᴡᴀɪᴛ...**")
     await asyncio.sleep(1)
-    await response.edit_caption("**🥀ᴘɪɴɢɪɴɢ ᴏᴜʀ sᴇʀᴠᴇʀ ᴡᴀɪᴛ.**")
+    await response.edit_caption("**🥀ᴘɪɴɢɪɴɢ ᴏᴜʀ 𝐊ᴀʀᴍᴀ sᴇʀᴠᴇʀ ᴡᴀɪᴛ.**")
     await asyncio.sleep(1)
-    await response.edit_caption("**🥀ᴘɪɴɢɪɴɢ ᴏᴜʀ sᴇʀᴠᴇʀ ᴡᴀɪᴛ..**")
+    await response.edit_caption("**🥀ᴘɪɴɢɪɴɢ ᴏᴜʀ 𝐊ᴀʀᴍᴀ sᴇʀᴠᴇʀ ᴡᴀɪᴛ..**")
     await asyncio.sleep(1.5)
-    await response.edit_caption("**🥀ᴘɪɴɢɪɴɢ ᴏᴜʀ sᴇʀᴠᴇʀ ᴡᴀɪᴛ...**")
+    await response.edit_caption("**🥀ᴘɪɴɢɪɴɢ ᴏᴜʀ 𝐊ᴀʀᴍᴀ sᴇʀᴠᴇʀ ᴡᴀɪᴛ...**")
     await asyncio.sleep(2)
-    await response.edit_caption("**🥀ᴘɪɴɢɪɴɢ ᴏᴜʀ sᴇʀᴠᴇʀ ᴡᴀɪᴛ....**")
+    await response.edit_caption("**🥀ᴘɪɴɢɪɴɢ ᴏᴜʀ 𝐊ᴀʀᴍᴀ sᴇʀᴠᴇʀ ᴡᴀɪᴛ....**")
     await asyncio.sleep(2)
     await response.edit_caption("**📡sʏsᴛᴇᴍ ᴅᴀᴛᴀ ᴀɴᴀʟʏsᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ !**")
     await asyncio.sleep(3)
@@ -102,10 +102,10 @@ async def ping_com(client, message: Message, _):
         ],
         [
             InlineKeyboardButton(
-                text="✦ ɢʀᴏᴜᴘ ✦", url=f"https://t.me/TG_FRIENDSS",
+                text="✦ ɢʀᴏᴜᴘ ✦", url=f"https://t.me/Tamil_Star_Bucks",
             ),
             InlineKeyboardButton(
-                text="✧ ᴍᴏʀᴇ ✧", url=f"https://t.me/VIP_CREATORS",
+                text="✧ ᴍᴏʀᴇ ✧", url=f"https://t.me/karmaa_network",
             )
         ],
         [
