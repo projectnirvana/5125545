@@ -39,8 +39,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Tamil_Star_Bucks")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Tamil_Star_Bucks")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/karmaa_network")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/bla_ck_worlds")
 
 # Maximum Limit Allowed for users to save playlists on bot's server
 SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "3000"))
@@ -113,21 +113,21 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/a5265662b81ea2fc4b6c7.jpg"
+    "START_IMG_URL", "https://graph.org/file/19c84f09fb83000b33628.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://graph.org/file/a5265662b81ea2fc4b6c7.jpg"
+    "PING_IMG_URL", "https://graph.org/file/19c84f09fb83000b33628.jpg"
 )
-PLAYLIST_IMG_URL = "https://graph.org/file/a5265662b81ea2fc4b6c7.jpg"
-STATS_IMG_URL = "https://graph.org/file/a5265662b81ea2fc4b6c7.jpg"
-TELEGRAM_AUDIO_URL = "https://graph.org/file/a5265662b81ea2fc4b6c7.jpg"
-TELEGRAM_VIDEO_URL = "https://graph.org/file/a5265662b81ea2fc4b6c7.jpg"
-STREAM_IMG_URL = "https://graph.org/file/a5265662b81ea2fc4b6c7.jpg"
-SOUNCLOUD_IMG_URL = "https://graph.org/file/a5265662b81ea2fc4b6c7.jpg"
-YOUTUBE_IMG_URL = "https://graph.org/file/a5265662b81ea2fc4b6c7.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/a5265662b81ea2fc4b6c7.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/a5265662b81ea2fc4b6c7.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/a5265662b81ea2fc4b6c7.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/19c84f09fb83000b33628.jpg"
+STATS_IMG_URL = "https://graph.org/file/19c84f09fb83000b33628.jpg"
+TELEGRAM_AUDIO_URL = "https://graph.org/file/19c84f09fb83000b33628.jpg"
+TELEGRAM_VIDEO_URL = "https://graph.org/file/19c84f09fb83000b33628.jpg"
+STREAM_IMG_URL = "https://graph.org/file/19c84f09fb83000b33628.jpg"
+SOUNCLOUD_IMG_URL = "https://graph.org/file/19c84f09fb83000b33628.jpg"
+YOUTUBE_IMG_URL = "https://graph.org/file/19c84f09fb83000b33628.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/19c84f09fb83000b33628.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/19c84f09fb83000b33628.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/19c84f09fb83000b33628.jpg"
 
 
 def time_to_seconds(time):
